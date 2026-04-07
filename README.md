@@ -35,3 +35,4 @@ Area chart for sales by day
 Chart for rating distribution
 
 github link (https://github.com/sanjit3110/footwear-deshboard/blob/main/README.md)
+ss link https://github.com/sanjit3110/footwear-deshboard/blob/main/fw_main%20dashobard.png
