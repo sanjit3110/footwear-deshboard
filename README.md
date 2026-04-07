@@ -33,3 +33,5 @@ Bar chart for sales by brand
 Pie chart for payment methods
 Area chart for sales by day
 Chart for rating distribution
+
+github link (https://github.com/sanjit3110/footwear-deshboard/blob/main/README.md)
